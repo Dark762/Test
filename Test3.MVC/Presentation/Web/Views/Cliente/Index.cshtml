@@ -1,0 +1,42 @@
+﻿@model Web.Models.ClienteViewModel
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Lista de Clientes</h1>
+
+<table id="tblColegios" class="table table-striped table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => Model.ListaClientes.FirstOrDefault().Id)</th>
+            <th>@Html.DisplayNameFor(model => Model.ListaClientes.FirstOrDefault().Nombres)</th>
+            <th>@Html.DisplayNameFor(model => Model.ListaClientes.FirstOrDefault().Apellidos)</th>
+            <th>@Html.DisplayNameFor(model => Model.ListaClientes.FirstOrDefault().Correo)</th>
+            <th>@Html.DisplayNameFor(model => Model.ListaClientes.FirstOrDefault().FechaNacimiento)</th>
+            <th>@Html.DisplayNameFor(model => Model.ListaClientes.FirstOrDefault().Direccion)</th>
+            <th>@Html.DisplayNameFor(model => Model.ListaClientes.FirstOrDefault().Activo)</th>
+            <th>@Html.DisplayNameFor(model => Model.ListaClientes.FirstOrDefault().FechaRegistro)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.ListaClientes != null)
+        {
+
+            foreach (var item in Model.ListaClientes)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Id)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Nombres)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Apellidos)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Correo)</td>
+                    <td>@Html.DisplayFor(modelItem => item.FechaNacimiento)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Direccion)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Activo)</td>
+                    <td>@Html.DisplayFor(modelItem => item.FechaRegistro)</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

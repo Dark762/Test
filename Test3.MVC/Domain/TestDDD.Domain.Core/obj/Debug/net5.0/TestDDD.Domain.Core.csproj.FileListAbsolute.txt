@@ -1,0 +1,17 @@
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Core\bin\Debug\net5.0\TestDDD.Domain.Core.deps.json
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Core\bin\Debug\net5.0\TestDDD.Domain.Core.dll
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Core\bin\Debug\net5.0\ref\TestDDD.Domain.Core.dll
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Core\bin\Debug\net5.0\TestDDD.Domain.Core.pdb
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Core\bin\Debug\net5.0\TestDDD.Domain.dll
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Core\bin\Debug\net5.0\TestDDD.Domain.Entities.dll
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Core\bin\Debug\net5.0\TestDDD.Domain.Entities.pdb
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Core\bin\Debug\net5.0\TestDDD.Domain.pdb
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Core\obj\Debug\net5.0\TestDDD.Domain.Core.csprojAssemblyReference.cache
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Core\obj\Debug\net5.0\TestDDD.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Core\obj\Debug\net5.0\TestDDD.Domain.Core.AssemblyInfoInputs.cache
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Core\obj\Debug\net5.0\TestDDD.Domain.Core.AssemblyInfo.cs
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Core\obj\Debug\net5.0\TestDDD.Domain.Core.csproj.CoreCompileInputs.cache
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Core\obj\Debug\net5.0\TestDDD.Domain.Core.csproj.CopyComplete
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Core\obj\Debug\net5.0\TestDDD.Domain.Core.dll
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Core\obj\Debug\net5.0\ref\TestDDD.Domain.Core.dll
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Core\obj\Debug\net5.0\TestDDD.Domain.Core.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TestDDD.Domain/1.0.0": {
+        "dependencies": {
+          "TestDDD.Domain.Entities": "1.0.0"
+        },
+        "runtime": {
+          "TestDDD.Domain.dll": {}
+        }
+      },
+      "TestDDD.Domain.Entities/1.0.0": {
+        "runtime": {
+          "TestDDD.Domain.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestDDD.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestDDD.Domain.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

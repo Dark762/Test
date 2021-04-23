@@ -1,0 +1,8 @@
+D:\proyectos\MDP\Test\Test1.WindowsFormsApp\Test1.WindowsForm\bin\Debug\Test1.WindowsForm.exe.config
+D:\proyectos\MDP\Test\Test1.WindowsFormsApp\Test1.WindowsForm\bin\Debug\Test1.WindowsForm.exe
+D:\proyectos\MDP\Test\Test1.WindowsFormsApp\Test1.WindowsForm\bin\Debug\Test1.WindowsForm.pdb
+D:\proyectos\MDP\Test\Test1.WindowsFormsApp\Test1.WindowsForm\obj\Debug\Test1.WindowsForm.csprojAssemblyReference.cache
+D:\proyectos\MDP\Test\Test1.WindowsFormsApp\Test1.WindowsForm\obj\Debug\Test1.WindowsForm.Properties.Resources.resources
+D:\proyectos\MDP\Test\Test1.WindowsFormsApp\Test1.WindowsForm\obj\Debug\Test1.WindowsForm.csproj.GenerateResource.cache
+D:\proyectos\MDP\Test\Test1.WindowsFormsApp\Test1.WindowsForm\obj\Debug\Test1.WindowsForm.exe
+D:\proyectos\MDP\Test\Test1.WindowsFormsApp\Test1.WindowsForm\obj\Debug\Test1.WindowsForm.pdb

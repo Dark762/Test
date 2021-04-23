@@ -1,0 +1,17 @@
+D:\proyectos\MDP\Test\Test3.MVC\Application\TestDDD.Application.Main\bin\Debug\net5.0\TestDDD.Application.Main.deps.json
+D:\proyectos\MDP\Test\Test3.MVC\Application\TestDDD.Application.Main\bin\Debug\net5.0\TestDDD.Application.Main.dll
+D:\proyectos\MDP\Test\Test3.MVC\Application\TestDDD.Application.Main\bin\Debug\net5.0\ref\TestDDD.Application.Main.dll
+D:\proyectos\MDP\Test\Test3.MVC\Application\TestDDD.Application.Main\bin\Debug\net5.0\TestDDD.Application.Main.pdb
+D:\proyectos\MDP\Test\Test3.MVC\Application\TestDDD.Application.Main\bin\Debug\net5.0\TestDDD.Domain.dll
+D:\proyectos\MDP\Test\Test3.MVC\Application\TestDDD.Application.Main\bin\Debug\net5.0\TestDDD.Domain.Entities.dll
+D:\proyectos\MDP\Test\Test3.MVC\Application\TestDDD.Application.Main\bin\Debug\net5.0\TestDDD.Domain.Entities.pdb
+D:\proyectos\MDP\Test\Test3.MVC\Application\TestDDD.Application.Main\bin\Debug\net5.0\TestDDD.Domain.pdb
+D:\proyectos\MDP\Test\Test3.MVC\Application\TestDDD.Application.Main\obj\Debug\net5.0\TestDDD.Application.Main.csprojAssemblyReference.cache
+D:\proyectos\MDP\Test\Test3.MVC\Application\TestDDD.Application.Main\obj\Debug\net5.0\TestDDD.Application.Main.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\MDP\Test\Test3.MVC\Application\TestDDD.Application.Main\obj\Debug\net5.0\TestDDD.Application.Main.AssemblyInfoInputs.cache
+D:\proyectos\MDP\Test\Test3.MVC\Application\TestDDD.Application.Main\obj\Debug\net5.0\TestDDD.Application.Main.AssemblyInfo.cs
+D:\proyectos\MDP\Test\Test3.MVC\Application\TestDDD.Application.Main\obj\Debug\net5.0\TestDDD.Application.Main.csproj.CoreCompileInputs.cache
+D:\proyectos\MDP\Test\Test3.MVC\Application\TestDDD.Application.Main\obj\Debug\net5.0\TestDDD.Application.Main.csproj.CopyComplete
+D:\proyectos\MDP\Test\Test3.MVC\Application\TestDDD.Application.Main\obj\Debug\net5.0\TestDDD.Application.Main.dll
+D:\proyectos\MDP\Test\Test3.MVC\Application\TestDDD.Application.Main\obj\Debug\net5.0\ref\TestDDD.Application.Main.dll
+D:\proyectos\MDP\Test\Test3.MVC\Application\TestDDD.Application.Main\obj\Debug\net5.0\TestDDD.Application.Main.pdb

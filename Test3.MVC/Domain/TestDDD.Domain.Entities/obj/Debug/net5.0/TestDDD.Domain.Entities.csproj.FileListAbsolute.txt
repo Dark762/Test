@@ -1,0 +1,12 @@
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Entities\bin\Debug\net5.0\TestDDD.Domain.Entities.deps.json
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Entities\bin\Debug\net5.0\TestDDD.Domain.Entities.dll
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Entities\bin\Debug\net5.0\ref\TestDDD.Domain.Entities.dll
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Entities\bin\Debug\net5.0\TestDDD.Domain.Entities.pdb
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Entities\obj\Debug\net5.0\TestDDD.Domain.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Entities\obj\Debug\net5.0\TestDDD.Domain.Entities.AssemblyInfoInputs.cache
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Entities\obj\Debug\net5.0\TestDDD.Domain.Entities.AssemblyInfo.cs
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Entities\obj\Debug\net5.0\TestDDD.Domain.Entities.csproj.CoreCompileInputs.cache
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Entities\obj\Debug\net5.0\TestDDD.Domain.Entities.dll
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Entities\obj\Debug\net5.0\ref\TestDDD.Domain.Entities.dll
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Entities\obj\Debug\net5.0\TestDDD.Domain.Entities.pdb
+D:\proyectos\MDP\Test\Test3.MVC\Domain\TestDDD.Domain.Entities\obj\Debug\net5.0\TestDDD.Domain.Entities.csprojAssemblyReference.cache
